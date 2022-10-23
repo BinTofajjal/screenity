@@ -1,0 +1,186 @@
+{
+    "extName": {
+      "message": "Screenity - স্ক্রিন রেকর্ডার এবং টীকাসংযোগ টুল",
+      "description": "Extension name"
+    },
+    "extDesc": {
+      "message": "ক্রোমের জন্য সবচেয়ে শক্তিশালী স্ক্রিন রেকর্ডার। ক্যাপচার, টীকাসংযোজন, সম্পাদনা, এবং অন্যান্য।",
+      "description": "Extension description"
+    },
+    "extCancel": {
+      "message": "রেকর্ডিং বাতিল করুন",
+      "description": "Cancel recording keyboard shortcut name"
+    },
+    "extMute": {
+      "message": "মাইক্রোফোন খুলুন/বন্ধ করুন",
+      "description": "Mute/Unmute microphone keyboard shortcut name"
+    },
+    "extStop": {
+      "message": "রেকর্ডিং বন্ধ করুন",
+      "description": "Stop recording keyboard shortcut name"
+    },
+    "extPause": {
+      "message": "রেকর্ডিং পজ/পুনরায় শুরু করুন",
+      "description": "Pause/Resume keyboard shortcut name"
+    },
+    "tab_only": {
+      "message": "শুধুমাত্র ট্যাব",
+      "description": "Tab only label in popup"
+    },
+    "desktop": {
+      "message": "ডেস্কটপ",
+      "description": "Desktop label in popup"
+    },
+    "camera_only": {
+      "message": "শুধুমাত্র ক্যামেরা",
+      "description": "Camera only label in popup"
+    },
+    "camera": {
+      "message": "ক্যামেরা",
+      "description": "Camera dropdown label in popup"
+    },
+    "microphone": {
+      "message": "মাইক্রোফোন",
+      "description": "Microphone dropdown label in popup"
+    },
+    "flip_camera": {
+      "message": "ক্যমেরা ঘুরান",
+      "description": "Flip camera label in popup"
+    },
+    "push_to_talk": {
+      "message": "চেপে ধরে কথা বলুন",
+      "description": "Push to talk label in popup"
+    },
+    "only_on_hover": {
+      "message": "শুধুমাত্র হোভারে টুলবার দেখান",
+      "description": "Only show toolbar on hover label in popup"
+    },
+    "disabled": {
+      "message": "বন্ধ করুন",
+      "description": "Disabled dropdown state in popup"
+    },
+    "loading": {
+      "message": "লোডিং...",
+      "description": "Loading state in popup"
+    },
+    "start_recording": {
+      "message": "রেকর্ডিং শুরু করুন",
+      "description": "Start recording state in popup"
+    },
+    "starting_recording": {
+      "message": "রেকর্ডিং শুরু হচ্ছে...",
+      "description": "Starting recording state in popup"
+    },
+    "cannot_record": {
+      "message": "এই পেজ রেকর্ড করা যাচ্ছে না",
+      "description": "Can't record in this page state in popup"
+    },
+    "stop_recording": {
+      "message": "রেকর্ডিং বন্ধ করুন",
+      "description": "Stop recording state in popup"
+    },
+    "second": {
+      "message": "সেকেন্ড",
+      "description": "Seconds label for countdown"
+    },
+    "seconds": {
+      "message": "সেকেন্ড",
+      "description": "Seconds label for countdown (plural)"
+    },
+    "countdown": {
+      "message": "গণনা",
+      "description": "Countdown label in popup"
+    },
+    "keyboard_shortcuts": {
+      "message": "কীবোর্ড শর্টকাট",
+      "description": "Keyboard shortcuts label in popup"
+    },
+    "smaller_file_size": {
+      "message": "ছোট আকারের ফাইল",
+      "description": "Smaller file size label in popup"
+    },
+    "highest_quality": {
+      "message": "সর্বোচ্চ মানের",
+      "description": "Highest quality label in popup"
+    },
+    "rate_extension": {
+      "message": "রেট দিন",
+      "description": "Rate extension label in popup"
+    },
+    "made_by_alyssa": {
+      "message": "Made by Alyssa X",
+      "description": "Made by Alyssa X label in popup"
+    },
+    "disabled_allow_access": {
+      "message": "বন্ধ (ইউআরএল বারে প্রবেশের অনুমতি দিন)",
+      "description": "Disabled requiring permission for camera/mic in popup"
+    },
+    "made_with": {
+      "message": "Made with",
+      "description": "Made with label in video editor"
+    },
+    "by_alyssa": {
+      "message": "by Alyssa X",
+      "description": "By Alyssa X label in video editor"
+    },
+    "edit_recording": {
+      "message": "আপনার রেকর্ডিং ইডিট করুন",
+      "description": "Edit your recording label in video editor"
+    },
+    "edit_recording_desc": {
+      "message": "আপনার ভিডিওতে চূড়ান্ত কারেকশন যোগ করুন।",
+      "description": "Edit recording description in video editor"
+    },
+    "format": {
+      "message": "এক্সপোর্টের ধরন",
+      "description": "Export format label in video editor"
+    },
+    "webm": {
+      "message": "WEBM (প্রাথমিক)",
+      "description": "Webm dropdown label in video editor"
+    },
+    "trim_video": {
+      "message": "ভিডিও ছোট করুন",
+      "description": "Trim video label in video editor"
+    },
+    "start": {
+      "message": "শুরু",
+      "description": "Start label in video editor"
+    },
+    "end": {
+      "message": "শেষ",
+      "description": "End label in video editor"
+    },
+    "remove_part": {
+      "message": "ভিডিয়োর কিছু অংশ বাদ দিন",
+      "description": "Remove part of the video label in video editor"
+    },
+    "apply": {
+      "message": "প্রয়োগ করুন",
+      "description": "Apply button in video editor"
+    },
+    "reset": {
+      "message": "পরিবর্তনগুলি পুনরায় সেট করুন (প্রাথমিক রেকর্ডিংয়ে প্রত্যাবর্তন করুন)",
+      "description": "Reset label in video editor"
+    },
+    "download": {
+      "message": "ডাউনলোড করুন",
+      "description": "Download button in video editor"
+    },
+    "save_drive": {
+      "message": "ড্রাইভে সেইভ করুন",
+      "description": "Save to Drive button in video editor"
+    },
+    "saving": {
+      "message": "সেইভ হচ্ছে...",
+      "description": "Saving to Drive button in video editor"
+    },
+    "show_hide": {
+      "message": "অপশনগুলো দেখান/লুকান",
+      "description": "Show/hide options panel in video editor (small screen)"
+    },
+    "downloading": {
+      "message": "ডাউনলোড হচ্ছে...",
+      "description": "Downloading button in video editor"
+    }
+}
